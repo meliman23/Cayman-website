@@ -11,7 +11,7 @@ const Body = () => {
         Cayman Mckinney 
     </h2>
     <p className='start'>
-Cayman, the esteemed Independent Auto Adjuster, stands prepared and equipped to handle your every claim with utmost professionalism. With an unwavering commitment to excellence, Cayman brings a wealth of industry knowledge and expertise to effectively navigate the complexities of auto insurance.</p>
+ Cayman brings a wealth of industry knowledge and expertise to effectively navigate the complexities of auto insurance.</p>
    
     </section>
      <section id="exp" className='card'>
