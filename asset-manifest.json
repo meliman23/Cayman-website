@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cayman-website/static/css/main.16a19528.css",
+    "main.js": "/Cayman-website/static/js/main.84538748.js",
+    "static/media/cj.jpg": "/Cayman-website/static/media/cj.fdb015b2548e77a62a6d.jpg",
+    "index.html": "/Cayman-website/index.html",
+    "main.16a19528.css.map": "/Cayman-website/static/css/main.16a19528.css.map",
+    "main.84538748.js.map": "/Cayman-website/static/js/main.84538748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a19528.css",
+    "static/js/main.84538748.js"
+  ]
+}
